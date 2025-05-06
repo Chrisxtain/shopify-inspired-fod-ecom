@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { Product } from '@/context/CartContext';
 import { Button } from '@/components/ui/button';
@@ -94,7 +93,6 @@ const ProductReviews: React.FC<ReviewsProps> = ({ product }) => {
                   ? "fill-yellow-400 text-yellow-400"
                   : "text-gray-300"
               }`}
-              weight={star <= (hoveredStar || rating) ? "fill" : "regular"}
             />
           </button>
         ))}

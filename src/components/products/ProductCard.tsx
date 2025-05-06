@@ -28,8 +28,7 @@ const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
         <div className="flex items-center mt-1">
           <div className="flex items-center">
             <Star 
-              className="h-4 w-4 fill-yellow-400 text-yellow-400" 
-              weight="fill"
+              className="h-4 w-4 fill-yellow-400 text-yellow-400"
             />
             <span className="ml-1 text-sm font-medium">{product.rating}</span>
           </div>
