@@ -1,5 +1,4 @@
-# Welcome to your Lovable project
-
+# Welcome To This Ecommerce Demo Store
 ## Project info
 
 **URL**: https://lovable.dev/projects/8d49bd1f-0779-4a32-a6de-8d0d3f7ea1c7
